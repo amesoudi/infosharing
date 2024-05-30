@@ -2,7 +2,7 @@
 
 This repository contains documents, code and files for the paper "From information free-riding to information sharing: how have humans solved the cooperative dilemma at the heart of cumulative cultural evolution?"
 
-The latest version of the paper preprint can be found on SocArXiv here.
+The latest version of the [paper preprint can be found on SocArXiv](https://osf.io/preprints/socarxiv/a9zty).
 
 The file **CES_models.Rmd** is an R Markdown document used to create the preprint pdf. It also contains all of the R code required to make all of the models reported in the paper. 
 
